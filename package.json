@@ -1,0 +1,22 @@
+{
+  "name": "myutil",
+  "version": "0.0.1",
+  "description": "myutil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/cwh11111/myutil.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "wenhui chen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
